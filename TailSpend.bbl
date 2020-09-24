@@ -1,0 +1,11 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem[{Bayrak et~al.(2007)Bayrak, Celebi, \protect\BIBand{}
+  Ta{\c{s}}kin}]{bayrak2007fuzzy}
+Bayrak M, Celebi N, Ta{\c{s}}kin H (2007) A fuzzy approach method for supplier
+  selection. \emph{Production Planning and Control} 18(1):54--63.
+
+\end{thebibliography}
